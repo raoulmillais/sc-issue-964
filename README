@@ -1,0 +1,4 @@
+* `npm install`
+* `npm run build`
+* `npm serve`
+* `xdg-open http://localhost:8080`
